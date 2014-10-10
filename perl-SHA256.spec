@@ -3,7 +3,7 @@
 
 Name:       perl-%{upstream_name}
 Version:    %perl_convert_version %{upstream_version}
-Release:	3
+Release:	4
 
 Summary:    A module that implements the NIST SHA-256/384/512 hash
 License:    GPL+ or Artistic
