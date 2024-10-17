@@ -8,7 +8,7 @@ Release:	5
 Summary:    A module that implements the NIST SHA-256/384/512 hash
 License:    GPL+ or Artistic
 Group:      Development/Perl
-Url:        http://search.cpan.org/dist/%{upstream_name}
+Url:        https://search.cpan.org/dist/%{upstream_name}
 Source0:    http://www.cpan.org/modules/by-module/Digest/%{upstream_name}-%{upstream_version}b.tar.gz
 BuildRequires: perl-devel
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}
