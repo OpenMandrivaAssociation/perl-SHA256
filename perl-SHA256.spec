@@ -10,6 +10,7 @@ License:    GPL+ or Artistic
 Group:      Development/Perl
 Url:        https://search.cpan.org/dist/%{upstream_name}
 Source0:    http://www.cpan.org/modules/by-module/Digest/%{upstream_name}-%{upstream_version}b.tar.gz
+BuildRequires:	make
 BuildRequires: perl-devel
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}
 
